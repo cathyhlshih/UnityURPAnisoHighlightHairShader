@@ -1,6 +1,6 @@
 # Unity URP Aniso Highlight Hair Shader
 
-![CathyShih_ShaderComparisonDemo](https://github.com/cathyhlshih/UnityURPAnisoHighlightHairShader/blob/main/UnityURPAnisoHighlightHair/Images/CathyShih_ShaderComparisonDemo.png)
+![CathyShih_ShaderComparisonDemo](/Images/CathyShih_ShaderComparisonDemo.png)
 
 This shader was put together to enhance the rendering of hair models in Unity URP using Shader Graph. 
 
