@@ -1,6 +1,6 @@
 # Unity URP Aniso Highlight Hair Shader
 
-![CathyShih_ShaderComparisonDemo](https://github.com/cathyhlshih/UnityURPAnisoHighlightHairShader/blob/main/UnityURPAnisoHighlightHair/Images/CathyShih_ColorChangeDemo.gif)
+![CathyShih_ShaderComparisonDemo](https://github.com/cathyhlshih/UnityURPAnisoHighlightHairShader/blob/main/UnityURPAnisoHighlightHair/Images/CathyShih_ShaderComparisonDemo.png)
 
 This shader was put together to enhance the rendering of hair models in Unity URP using Shader Graph. 
 
@@ -10,14 +10,14 @@ This shader was put together to enhance the rendering of hair models in Unity UR
 
 It contains a custom lighting function/subgraph from the Unity project [BoatAttack](https://github.com/Unity-Technologies/BoatAttack) to get main light's direction and color. It requires an anisotropic direction texture. Here is an example showcasing reflection changes based on light direction:
 
-![CathyShih_MoveMainLightDemo](cathyhlshih/UnityURPAnisoHighlightHair/Images/CathyShih_MoveMainLightDemo.gif)
+![CathyShih_MoveMainLightDemo](https://github.com/cathyhlshih/UnityURPAnisoHighlightHairShader/blob/main/UnityURPAnisoHighlightHair/Images/CathyShih_MoveMainLightDemo.gif)
 
 Testures used for testing:
-![CathyShih_TexturesforTesting](cathyhlshih/UnityURPAnisoHighlightHair/Images/CathyShih_TexturesforTesting.png)
+![CathyShih_TexturesforTesting](https://github.com/cathyhlshih/UnityURPAnisoHighlightHairShader/blob/main/UnityURPAnisoHighlightHair/Images/CathyShih_TexturesforTesting.png)
 
 It also aims to improve visual quality for [UMA](https://github.com/umasteeringgroup/UMA) users who have chosen WillB's hair packs. UMA is a free character creation and modification system and users often leverage material color changes for character modification. Here is a demonstration of hair color change below:
 
-![CathyShih_ColorChangeDemo](cathyhlshih/UnityURPAnisoHighlightHair/Images/CathyShih_ColorChangeDemo.gif)
+![CathyShih_ColorChangeDemo](https://github.com/cathyhlshih/UnityURPAnisoHighlightHairShader/blob/main/UnityURPAnisoHighlightHair/Images/CathyShih_ColorChangeDemo.gif)
 
 
 
