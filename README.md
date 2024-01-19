@@ -8,17 +8,16 @@ This shader was put together to enhance the rendering of hair models in Unity UR
 * URP 14.0.9
 * Shader Graph 14.0.9
 
-It contains a custom lighting function/subgraph from the Unity project [BoatAttack](https://github.com/Unity-Technologies/BoatAttack) to get main light's direction and color. It requires an anisotropic direction texture. Here is an example showcasing reflection changes based on light direction:
+It contains a custom lighting function/subgraph from the Unity project [BoatAttack](https://github.com/Unity-Technologies/BoatAttack) to get main light's direction and color. It requires an anisotropic direction texture. The render result was done with WillB's [UMA](https://github.com/umasteeringgroup/UMA) Hair packs. Here is an example showcasing reflection changes based on light direction:
 
-![CathyShih_MoveMainLightDemo](https://github.com/cathyhlshih/UnityURPAnisoHighlightHairShader/blob/main/UnityURPAnisoHighlightHair/Images/CathyShih_MoveMainLightDemo.gif)
+<img src="/UnityURPAnisoHighlightHair/Images/CathyShih_MoveMainLightDemo.gif" alt="CathyShih_MoveMainLightDemo" style="width:300px;"/>
 
-Testures used for testing:
-![CathyShih_TexturesforTesting](https://github.com/cathyhlshih/UnityURPAnisoHighlightHairShader/blob/main/UnityURPAnisoHighlightHair/Images/CathyShih_TexturesforTesting.png)
+Textures used for testing:
 
-It also aims to improve visual quality for [UMA](https://github.com/umasteeringgroup/UMA) users who have chosen WillB's hair packs. UMA is a free character creation and modification system and users often leverage material color changes for character modification. Here is a demonstration of hair color change below:
+<img src="/UnityURPAnisoHighlightHair/Images/CathyShih_TexturesforTesting.png" alt="CathyShih_MoveMainLightDemo" style="width:300px;"/>
 
-![CathyShih_ColorChangeDemo](https://github.com/cathyhlshih/UnityURPAnisoHighlightHairShader/blob/main/UnityURPAnisoHighlightHair/Images/CathyShih_ColorChangeDemo.gif)
+UMA is a free character creation and modification system and users often leverage material color changes for character modification. Here is a demonstration of hair color change below:
 
-
+<img src="/UnityURPAnisoHighlightHair/Images/CathyShih_ColorChangeDemo.gif" alt="CathyShih_MoveMainLightDemo" style="width:300px;"/>
 
 The shader can be easily modified for use with other hair models.
